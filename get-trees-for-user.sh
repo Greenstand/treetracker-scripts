@@ -1,1 +1,1 @@
-CURL -X GET  http://localhost:8000/trees/details/user/324
+CURL -X GET  http://dev.treetracker.org/trees/details/user/324
