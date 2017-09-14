@@ -1,0 +1,9 @@
+{
+	"user_id" : 1,
+	"lat" : -3.265575, 
+	"lon" : 36.624760,
+	"gps_accuracy" : 10,
+	"note" : "This is my note about a tree",
+	"timestamp" : "timestamp as string 'Y-m-d H:i:s'",
+	"base_64_image" : "image encoded as base 64 in post body"
+}
