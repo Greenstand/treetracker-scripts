@@ -1,0 +1,1 @@
+curl -v -X POST  -H "Content-Type: application/json" -H "Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjbGllbnRfaWQiOiJ0c2FhdEB0dC5jb20iLCJpYXQiOjE1MTUxMjU0ODJ9.Y292P8LqFGG1j7jJen5wq2O5mKjn6kcG1gPKg3_s2mU"  -d @new.tree.example.json http://localhost:3000/trees/create
