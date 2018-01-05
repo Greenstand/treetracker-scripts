@@ -4,6 +4,6 @@
 	"lon" : 36.624760,
 	"gps_accuracy" : 10,
 	"note" : "This is my note about a tree",
-	"timestamp" : "timestamp as string 'Y-m-d H:i:s'",
+  "timestamp" : "2017-11-10 12:29:21",
 	"base_64_image" : "image encoded as base 64 in post body"
 }
